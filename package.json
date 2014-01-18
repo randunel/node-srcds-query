@@ -1,0 +1,19 @@
+{
+    "author": "Mihai Ene <dkrandu@yahoo.com>",
+        "name": "srcds-query",
+        "description": "A node.js implementation for the SRCDS query protocol",
+        "keywords": ["valve", "srcds", "hlds", "query", "half", "life", "counter", "strike"],
+        "version": "1.0.0-rc1",
+        "homepage": "https://github.com/randunel/node-srcds-query",
+        "repository": {
+            "type": "git",
+            "url": "https://github.com/randunel/node-srcds-query"
+        },
+        "main": "./index",
+        "engines": {
+            "node": "*"
+        },
+        "dependencies": {},
+        "devDependencies": {},
+        "optionalDependencies": {}
+}
