@@ -13,7 +13,9 @@
         "engines": {
             "node": "*"
         },
-        "dependencies": {},
+        "dependencies": {
+            "srcds-packet": "1.0.x"
+        },
         "devDependencies": {},
         "optionalDependencies": {}
 }
